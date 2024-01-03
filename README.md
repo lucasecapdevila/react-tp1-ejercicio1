@@ -10,4 +10,4 @@ Crear una aplicaci√≥n web con un componente que muestre en pantalla el mensaje ‚
 ![Ejercicio 1](./public/tp1.jpg)
 
 ### Link de Deploy:
-- [Netlify](https://tpn1react76i.netlify.app/)
+- [Netlify](https://lucasecapdevila-tpn1react76i.netlify.app/)
